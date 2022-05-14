@@ -1,8 +1,6 @@
-# flash_chat
+# chat
 
 A new Flutter project.
-
-Where users can chat and communicate with friends
 
 ## Getting Started
 
